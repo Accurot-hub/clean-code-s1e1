@@ -14,7 +14,7 @@ body {
 .header__image {
     width: 100%;
 }
-.centered-main-page-element {
+.main {
     display: block;
     width: 500px;
     margin: 0 auto 0;
