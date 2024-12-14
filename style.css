@@ -78,9 +78,6 @@ body {
     font-size: 18px;
     width: 226px;
 }
-.main__task__box__task__list >    input[type="text"] {
-    width: 226px
-}
 button.delete img {
     height: 2em;
     transform: rotateZ(45deg);
