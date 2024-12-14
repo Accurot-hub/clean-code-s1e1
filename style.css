@@ -33,7 +33,7 @@ body {
 .task {
    flex-grow: 1
 }
-ul {
+.main__task__list {
     margin: 0;
     padding: 0;
 }
@@ -64,7 +64,6 @@ input[type="text"] {
 input[type="text"]:focus {
     color: #333;
 }
-
 /* Task list */
 li {
     overflow: hidden;
