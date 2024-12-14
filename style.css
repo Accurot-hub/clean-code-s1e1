@@ -61,7 +61,6 @@ body {
 .main__task__box__task__list__input:focus {
     color: #333;
 }
-/* Task list */
 .main__task__box__task__list {
     padding: 20px 0;
     border-bottom: 1px solid #eee;
@@ -90,13 +89,11 @@ body {
     text-decoration: line-through;
     color: #888;
 }
-
-/* Edit Task */
-ul li input[type=text] {
+.eddit__input {
     display:none
 }
 
-ul li.editMode input[type=text] {
+.editMode .eddit__input {
     display:inline-block;
     width:224px
 }
