@@ -86,10 +86,8 @@ body {
 .button__delete__image:hover {
     transform: rotateZ(0);
 }
-
-/* Completed */
-.main__task__box__task__list__name__task {
-    text-decoration: line-through
+.complited__task {
+    text-decoration: line-through;
     color: #888;
 }
 
