@@ -84,15 +84,15 @@ body {
 .button__delete__image:hover {
     transform: rotateZ(0);
 }
-.complited__task {
+.complited-task {
     text-decoration: line-through;
     color: #888;
 }
-.eddit__input {
+.edit-input {
     display:none
 }
 
-.main__task__edit .eddit__input {
+.main__task__edit .edit-input {
     display:inline-block;
     width:224px
 }
