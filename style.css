@@ -62,27 +62,23 @@ body {
     color: #333;
 }
 /* Task list */
-li {
+.main__task__box__task__list {
     padding: 20px 0;
     border-bottom: 1px solid #eee;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-li > * {
-    vertical-align: middle;
-}
-
-li > input[type="checkbox"] {
+.main__task__box__task__list > input[type="checkbox"] {
     margin: 0 10px;
 }
-li > label {
+.main__task__box__task__list > label {
     padding-left: 10px;
     box-sizing: border-box;
     font-size: 18px;
     width: 226px;
 }
-li >    input[type="text"] {
+.main__task__box__task__list >    input[type="text"] {
     width: 226px
 }
 button.delete img {
