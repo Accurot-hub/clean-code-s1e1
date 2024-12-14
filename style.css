@@ -69,7 +69,7 @@ body {
     justify-content: space-between;
     align-items: center;
 }
-.main__task__box__task__list > input[type="checkbox"] {
+.main__task__box__task__list__checkbox {
     margin: 0 10px;
 }
 .main__task__box__task__list > label {
