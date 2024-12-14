@@ -1,8 +1,8 @@
-body {
+.page {
     background-color: #f8f8f8;
     color: #333;
 }
-body,
+.page,
 .main__task__input,
 .button {
     font-family: Lato, sans-serif;
